@@ -1,1 +1,23 @@
-All rights reserved
+Proprietary License
+
+Copyright (c) 2026 wng409. All rights reserved.
+
+This repository (the "Showcase") is a personal, private project and is NOT open source.
+It serves purely as an architecture design whitepaper, demonstrating technical philosophies.
+It does NOT contain the complete source code, deployment scripts, or sensitive configurations.
+
+Unauthorized copying, modification, distribution, or any commercial use of this repository
+or its contents is strictly prohibited without explicit written permission from the author.
+
+---
+
+The open-source core `myblog-core` is licensed differently:
+
+- Repository: https://github.com/wng409/myblog-core
+- License: MIT
+- Free to use, modify, and distribute.
+- This Proprietary License does NOT apply to `myblog-core`.
+
+---
+
+The author reserves all rights to the complete version.
